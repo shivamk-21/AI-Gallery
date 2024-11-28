@@ -1,6 +1,6 @@
-# Gallery Project
+# AI Gallery
 
-Welcome to the AI Gallery Project! This project is designed to use AI technology to search for images base don the query.
+Welcome to the AI Gallery Project! This project is designed to use AI technology to search for images based on the query.
 
 ## Features
 
@@ -14,7 +14,7 @@ Welcome to the AI Gallery Project! This project is designed to use AI technology
 
 1. Clone the repository:
     ```bash
-    git clone {url}
+    git clone https://github.com/shivamk-21/AI-Gallery.git
     ```
 2. For Notebook Run:
     ```bash
@@ -26,10 +26,8 @@ Welcome to the AI Gallery Project! This project is designed to use AI technology
     ```
     Then Run the app.py
 
-5. For Executabel File:
-    ```bash
-    Look in Windows_App/dist/AI Gallery.rar
-    ```
+5. For Executable:
+   - [Use the Link](https://drive.google.com/file/d/11kajmxHJd50KUMd5k1Py5ud0X70M87iN/view?usp=sharing)
 
 ## Contributing
 
