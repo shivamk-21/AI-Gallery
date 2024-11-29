@@ -33,5 +33,5 @@ Welcome to the AI Gallery Project! This project is designed to use AI technology
 
 We welcome contributions! Please follow the standard steps.
 
-
+[![Hits](https://hits.sh/github.com/shivamk-21/AI-Gallery.svg?label=Views)](https://hits.sh/github.com/shivamk-21/AI-Gallery/)
 
